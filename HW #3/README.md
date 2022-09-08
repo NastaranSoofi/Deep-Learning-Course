@@ -13,8 +13,6 @@ For evaluation of model's performance, we usd Jaccard and Dice metrics from the 
 
 In this part, we observed the effect of Data Augmentation and usage of Padding in Convolution.
 In the end, we turned the "U-NET" model into a Residual model by adding some skip-connections and building some residual blocks.As shown below:
-
-![residual](https://user-images.githubusercontent.com/88024963/189114369-adfc1817-09bd-4b41-8e9d-2e6692ba6aa4.png)
-
+![resunet](https://user-images.githubusercontent.com/88024963/189115051-4b38b985-3b76-474f-9192-2dcfe93df6c2.png)
 
 
