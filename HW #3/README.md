@@ -1,4 +1,4 @@
-#Q1 - Image Segmentation
+# Q1 - Image Segmentation
 
 One of the most successful applications of deep learning in medical problems is Image Segmentation by using models such as U-Net, FPN and Masked RCNN.
 
@@ -18,7 +18,7 @@ In the end, we turned the "U-NET" model into a Residual model by adding some ski
 ![resunet](https://user-images.githubusercontent.com/88024963/189115051-4b38b985-3b76-474f-9192-2dcfe93df6c2.png)
 
 
-#Q2- Part-Of-Speech (POS) Tagger
+# Q2- Part-Of-Speech (POS) Tagger
 
 In this question, the first step is to apply the necessary pre-processing on the text data.
 
